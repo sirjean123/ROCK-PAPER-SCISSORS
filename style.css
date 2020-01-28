@@ -1,0 +1,49 @@
+body {
+	background-color: red;
+	text-align: center;
+	color: white;
+}
+p {
+	clear: both;
+}
+.image {
+    height: 80px;
+    width: 150px;
+}
+.container{
+	width = 100px;
+	position: relative;
+		margin: 0 auto;
+}
+.choicesContainer{
+	width: 100%;
+	position: relative;
+	margin: 0 auto;
+	overflow: auto;
+
+}
+.center{
+	margin:0 auto;
+	width:470px;
+}
+.choices {
+	width: 150px;
+	height: 150px;
+	float: left;
+	margin: 0 auto;
+}
+/*#rock {
+	float: left;
+		width: 100px;
+	height: 100px;
+}
+#paper{
+	width: 100px;
+	height: 100px;
+	margin: 0 auto;
+}
+#scissors{
+		float: right;
+		width: 100px;
+	height: 100px;
+}*/
